@@ -21,7 +21,10 @@ https://miro.com/app/board/uXjVNlo6qJ4=/?share_link_id=137644001789
 
 1. PsychoPy/Pavlovia Study Design Code: https://github.com/ivizlab/VAWE/blob/main/Visual_Aesthetic_Emotion_Study.js
 
-2. Code for Generating Heatmaps: https://github.com/ivizlab/VAWE/blob/main/getPolar_fin.py
+2. Code to Plot the Histograms and Make Data Ready for Heatmatps for 3: https://github.com/ivizlab/VAWE/blob/main/anglediff.m 
+
+3. Code for Generating Heatmaps: https://github.com/ivizlab/VAWE/blob/main/getPolar_fin.py
+
 
    
 
