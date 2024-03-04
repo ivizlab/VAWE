@@ -7,13 +7,13 @@
 <b>1. Repository and Datasets</b>
 
 Password for the following: <b>thesis24</b>
-1.  Historical Art dataset analysis and visualizations from paper 3, ch3 (VAWE:  A New Art Emotion Classification Metric for Evaluating Art Portraits):         	
+1.  Historical Art dataset analysis and visualizations from paper 3 (ch4) (VAWE:  A New Art Emotion Classification Metric for Evaluating Art Portraits):         	
 https://miro.com/app/board/uXjVNlo6qJ4=/?share_link_id=137644001789
  
-2.  AI Art dataset, analysis and visualizations from paper 4, ch4 – study 1 (Using VAWE for Aesthetic Emotion Evaluations of AI Art Portraits to Create a Prototype of an Emotionally Aware Portrait System):
+2.  AI Art dataset, analysis and visualizations from paper 4 (ch5): Study 1 (Using VAWE for Aesthetic Emotion Evaluations of AI Art Portraits to Create a Prototype of an Emotionally Aware Portrait System):
         	https://miro.com/app/board/uXjVNloFtT8=/?share_link_id=500387100362
 
-3.  AI Generated Art from paper, ch4 – study 2 (Using VAWE for Aesthetic Emotion Evaluations of AI Art Portraits to Create a Prototype of an Emotionally Aware Portrait System), is shared in a public dataset with the following link:
+3.  AI Generated Art from paper 4 (ch5): Study 2 (Using VAWE for Aesthetic Emotion Evaluations of AI Art Portraits to Create a Prototype of an Emotionally Aware Portrait System), is shared in a public dataset with the following link:
        	https://miro.com/app/board/uXjVNloAX4c=/?share_link_id=545768850920
 
 
