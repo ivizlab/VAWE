@@ -1,3 +1,7 @@
+<b>An Aesthetic Emotion Metric Model for Understanding the Emotional Reception of AI Portrait Art</b>
+
+<b>Nouf Abukhodair</b>
+
 <b>Appendix A</b>
 
 <b>1. Repository and Datasets</b>
