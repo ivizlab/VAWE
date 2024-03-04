@@ -17,7 +17,6 @@ https://miro.com/app/board/uXjVNlo6qJ4=/?share_link_id=137644001789
 
 Below are the links to the code for the thesis:
 
-1. Pavlovia
-1. GEW Adaptation
-1. VAWE Analysis
+1. PsychoPy/Pavlovia Study Design Code: https://github.com/ivizlab/VAWE/blob/main/Visual_Aesthetic_Emotion_Study.js
+2. 
 
